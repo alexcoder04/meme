@@ -8,7 +8,7 @@
 [![Stars](https://img.shields.io/github/stars/alexcoder04/meme)](https://github.com/alexcoder04/meme/stargazers)
 [![Contributors](https://img.shields.io/github/contributors-anon/alexcoder04/meme)](https://github.com/alexcoder04/meme/graphs/contributors)
 
-Get memory usage information in Go.
+Get memory usage information in Go. This library obtains and parses memory data from `/proc/meminfo`.
 
 Currently Linux only.
 
