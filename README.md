@@ -1,13 +1,6 @@
 
 # meme
 
-[![License](https://img.shields.io/github/license/alexcoder04/meme)](https://github.com/alexcoder04/meme/blob/main/LICENSE)
-[![Go Version](https://img.shields.io/github/go-mod/go-version/alexcoder04/meme)](https://github.com/alexcoder04/meme/blob/main/go.mod)
-[![Lines](https://img.shields.io/tokei/lines/github/alexcoder04/meme?label=lines)](https://github.com/alexcoder04/meme/pulse)
-[![Release](https://img.shields.io/github/v/release/alexcoder04/meme?display_name=tag&sort=semver)](https://github.com/alexcoder04/meme/releases/latest)
-[![Stars](https://img.shields.io/github/stars/alexcoder04/meme)](https://github.com/alexcoder04/meme/stargazers)
-[![Contributors](https://img.shields.io/github/contributors-anon/alexcoder04/meme)](https://github.com/alexcoder04/meme/graphs/contributors)
-
 Get memory usage information in Go. This library obtains and parses memory data from `/proc/meminfo`.
 
 Currently Linux only.
